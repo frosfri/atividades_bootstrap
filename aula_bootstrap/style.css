@@ -1,0 +1,16 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero{
+background:#f4f4f4;
+}
+
+footer ul{
+list-style:none;
+padding:0;
+}
+
+footer li{
+margin-bottom:5px;
+}
